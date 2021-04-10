@@ -2,4 +2,4 @@
 CPU Scheduling Algorithms with GUI
 
 ## Demo
-![GIF Demo](/rmpasswd/osproject31.demo.gif )
+![GIF Demo]( https://github.com/rmpasswd/rmpasswd/blob/main/osproject31.demo.gif)
