@@ -10,7 +10,6 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import random, fcfs, sjfpre, sjfnonpre, prioritypre, prioritynonpre
-from tabulate import tabulate
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
