@@ -11,6 +11,6 @@ The GUI is written with PyQt5. So, PyQt5 will be installed(~50 MB).
 ```
 git clone https://github.com/rmpasswd/osproject31.git
 cd osproject31
-pip3 install -r requirements.txt
-python3 ./design.py
+pip install -r requirements.txt
+python ./design.py
 ```
