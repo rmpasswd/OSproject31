@@ -20,3 +20,11 @@ cd osproject31
 pip install -r requirements.txt
 python ./design.py
 ```
+
+## Possible Errors:
+When trying to install dependency:  
+<img width="903" height="171" alt="image" src="https://github.com/user-attachments/assets/3090006c-e2e6-4920-aba5-c42c085a38b2" />  
+Fix:  
+Instead of `py -m pip install PyQt5==5.15.4`, run `pip install -r PyQt5`
+
+
